@@ -10,6 +10,7 @@ let message = "";
 let currentLevel = 1; 
 let buttonNextLevel;
 
+let button; 
 
 function preload() {
 
